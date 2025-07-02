@@ -1,1 +1,1 @@
-console.log("JS Loaded: Welcome to UI/UX Project");
+console.log("JS Loaded: Welcome to the UI/UX Project");
